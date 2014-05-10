@@ -9,7 +9,8 @@
     convertNoticesToExceptions  = "true"
     convertWarningsToExceptions = "true"
     stopOnFailure               = "true"
-    syntaxCheck                 = "false">
+    syntaxCheck                 = "false"
+    bootstrap                   = "vendor/autoload.php" >
 
     <testsuites>
         <testsuite name="Project Test Suite">
