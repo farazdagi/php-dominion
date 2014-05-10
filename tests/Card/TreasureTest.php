@@ -1,6 +1,6 @@
 <?php
 
-namespace Card\Treasure;
+namespace Card;
 
 use SquareLabs\Card;
 use SquareLabs\Card\Treasure\Copper;
